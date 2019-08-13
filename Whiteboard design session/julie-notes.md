@@ -48,7 +48,8 @@ Additional Fields since 2003
 
 ## 3- Third party weather data (JSON)
 
-- Weather forecasts around any airport, and provides forecasts up to 10 days. 
+- Weather forecasts around any airport, and provides forecasts up to 10 days.
+- excerpt forecast for a single day
 
 ## Amount of Data
 
