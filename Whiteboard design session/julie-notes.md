@@ -46,7 +46,7 @@ Additional Fields since 2003
 - own customer flight data
 - a history of the historical weather condition for each flight as CSV files
 
-## 3- Third party weather data (JSON)
+## 3 - Third party weather data (JSON)
 
 - Weather forecasts around any airport, and provides forecasts up to 10 days.
 - excerpt forecast for a single day
